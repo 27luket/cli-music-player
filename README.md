@@ -42,7 +42,7 @@ This command-line music player is a Python program designed to manage a local mu
 1. Run the program:
 
     ```bash
-    python music_player.py
+    python cli_music_player.py
     ```
 
 2. Type `help` to see available commands.
