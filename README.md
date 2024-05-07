@@ -26,7 +26,13 @@ This command-line music player is a Python program designed to manage a local mu
     git clone https://github.com/27luket/cli-music-player.git
     ```
 
-2. Install dependencies:
+2. Navigate into the cloned repository directory:
+
+    ```bash
+    cd cli-music-player
+    ```
+
+3. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
