@@ -16,7 +16,7 @@ This command-line music player is a Python program designed to manage a local mu
 - yt-dlp
 - requests
 - mutagen
-- BeautifulSoup
+- beautifulsoup4
 - youtube_dl
 
 ## Installation
@@ -51,7 +51,7 @@ This command-line music player is a Python program designed to manage a local mu
 
 
 ## Contributors
-- [Luke Trujillo](https://github.com/27luket) - Creator
+- Creator: [Luke Trujillo](https://github.com/27luket)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
