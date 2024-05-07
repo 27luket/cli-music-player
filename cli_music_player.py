@@ -30,7 +30,7 @@ Dependencies:
     - mutagen.mp3: MP3 audio metadata handling.
     - concurrent.futures: Asynchronous task execution and thread management.
     - BeautifulSoup: HTML parsing.
-    - youtube_dl.utils.sanitize_filename: Filename sanitization for Youtube downloads.
+    - sanitize_filename: Filename sanitization for Youtube downloads.
 """
 
 import os
