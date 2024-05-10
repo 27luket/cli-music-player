@@ -1,7 +1,7 @@
 # Command-Line Music Player
 
 ## Overview
-This command-line music player is a Python program designed to manage a local music library and control playback of audio tracks. It allows users to add songs from YouTube, play, pause, skip, shuffle, and adjust volume, all from the command line.
+This command-line music player is a Python program designed to manage a local music library and control playback of audio tracks.
 
 ## Features
 - Add songs from YouTube by searching for them
