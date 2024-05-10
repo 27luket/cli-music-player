@@ -35,7 +35,7 @@ This command-line music player is a Python program designed to manage a local mu
 3. Install dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r dependencies.txt
     ```
 
 ## Usage
